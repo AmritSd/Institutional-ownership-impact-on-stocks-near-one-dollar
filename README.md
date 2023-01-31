@@ -23,5 +23,5 @@ Findings are expected to include:
 Figures showing the correlation between ownership concentration and returns (both overall and when prices are approaching $1 from either direction)
 Figures showing the regression statistics of long-short portfolio vs FF factors
 
-
-
+### Track our progress
+We use [Github projects](https://github.com/AmritSd/Institutional-ownership-impact-on-stocks-near-one-dollar/projects) to plan and track our progress
