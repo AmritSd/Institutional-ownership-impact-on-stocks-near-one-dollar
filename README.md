@@ -23,5 +23,18 @@ Findings are expected to include:
 Figures showing the correlation between ownership concentration and returns (both overall and when prices are approaching $1 from either direction)
 Figures showing the regression statistics of long-short portfolio vs FF factors
 
+### Running our code
+To run our code you'll need to clone this repository and then download the data for it serperately.
+
+The data can be downloaded from the following [link](https://utexas.box.com/s/qxblujtpmofzpqm2fxj5w7a0jqzw2913) <br>
+You'll have to download all the files and place them in the data directory like so:
+
+├── data <br>
+│   ├── price_data_2005_2022.csv <br>
+│   ├── instituional_ownership_2005_2022.csv <br>
+│   ├── merged_data_2005_2022.pkl
+
+
+
 ### Track our progress
 We use [Github projects](https://github.com/AmritSd/Institutional-ownership-impact-on-stocks-near-one-dollar/projects) to plan and track our progress
