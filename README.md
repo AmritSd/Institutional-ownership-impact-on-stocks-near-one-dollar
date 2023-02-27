@@ -31,6 +31,8 @@ You'll have to download all the files and place them in the data directory like 
 
 ├── data <br>
 │   ├── price_data_2005_2022.csv <br>
+│   ├── price_data_cleaned.csv <br>
+│   ├── price_data_cleaned.pkl <br>
 │   ├── instituional_ownership_2005_2022.csv <br>
 │   ├── merged_data_2005_2022.pkl
 
