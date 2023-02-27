@@ -36,6 +36,6 @@ You'll have to download all the files and place them in the data directory like 
 │   ├── instituional_ownership_2005_2022.csv <br>
 │   ├── merged_data_2005_2022.pkl
 
-**Look at files eda/eda_refactored.ipynb and data_cleaning/price_data_cleaning.ipynb**
+**Look at files eda/eda_refactored.ipynb** &nbsp;&nbsp;&nbsp;and&nbsp;&nbsp;&nbsp; **data_cleaning/price_data_cleaning.ipynb**
 ### Track our progress
 We use [Github projects](https://github.com/AmritSd/Institutional-ownership-impact-on-stocks-near-one-dollar/projects) to plan and track our progress
